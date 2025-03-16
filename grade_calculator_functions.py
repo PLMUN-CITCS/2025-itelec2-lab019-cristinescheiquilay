@@ -9,6 +9,7 @@ def check_even_odd(number: int) -> str:
 def main():
     number = get_integer_input()
     result = check_even_odd(number)
-    print(result)
-if _name_ == "_main_":
+    print(result)git 
+if _name_ == "_main_": ()
     main()
+    
